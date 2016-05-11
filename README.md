@@ -1,2 +1,3 @@
 # AppiumTest
-Appium Test Demo
+AppiumTest is a repository for showing Appium test demo.
+
