@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="166351" started-at="2016-05-11T13:29:22Z" finished-at="2016-05-11T13:32:09Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="166351" started-at="2016-05-11T13:29:22Z" finished-at="2016-05-11T13:32:09Z">
+      <class name="com.pack.tests.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pack.tests.LoginTest@47990d6e]" name="setUp" is-config="true" duration-ms="5336" started-at="2016-05-11T19:01:00Z" finished-at="2016-05-11T19:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testLoginLogout()[pri:0, instance:com.pack.tests.LoginTest@47990d6e]" name="testLoginLogout" duration-ms="61982" started-at="2016-05-11T19:01:05Z" finished-at="2016-05-11T19:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pack.tests.LoginTest@47990d6e]" name="tearDown" is-config="true" duration-ms="1071" started-at="2016-05-11T19:02:07Z" finished-at="2016-05-11T19:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pack.tests.LoginTest -->
+      <class name="com.pack.tests.BookSeatTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pack.tests.BookSeatTest@3ade1520]" name="setUp" is-config="true" duration-ms="6134" started-at="2016-05-11T18:59:22Z" finished-at="2016-05-11T18:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testBookSeat()[pri:0, instance:com.pack.tests.BookSeatTest@3ade1520]" name="testBookSeat" duration-ms="90430" started-at="2016-05-11T18:59:28Z" finished-at="2016-05-11T19:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBookSeat -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pack.tests.BookSeatTest@3ade1520]" name="tearDown" is-config="true" duration-ms="1384" started-at="2016-05-11T19:00:59Z" finished-at="2016-05-11T19:01:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pack.tests.BookSeatTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

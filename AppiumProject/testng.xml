@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AppiumDemo">
+
+	<test name="LoginTest">
+		<classes>
+			<class name="com.pack.tests.LoginTest" />
+		</classes>
+	</test>
+
+	<test name="BookingSeatTest">
+		<classes>
+			<class name="com.pack.tests.BookSeatTest" />
+		</classes>
+	</test>
+</suite> 
